@@ -4,7 +4,7 @@ Dialogflow is a NLP platform made by Google and can be integrated with Google Cl
 
 ### Setup:
 ```sh
-$ pip install api.ai
+$ pip install apiai
 $ python chatbot.py
 ```
 ### Example
